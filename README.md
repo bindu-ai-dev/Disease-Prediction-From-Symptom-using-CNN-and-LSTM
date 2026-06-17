@@ -70,14 +70,43 @@ Accuracy 100%,
 Loss 0%
 ## ⚙️ Installation
 ### Clone the Repository
-git clone https://github.com/bindu-ai-dev/Disease-Prediction-From-Symptom-using-CNN-and-LSTM
-cd AI-Disease-Prediction
+git clone https://github.com/bindu-ai-dev/Disease-Prediction-From-Symptom-using-CNN-and-LSTM.git
+
+cd Disease-Prediction-From-Symptom-using-CNN-and-LSTM
 ### Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 ### Train the Model
-python train.py
+```bash
+python train.py 
+```
 ### Run Predictions
+```bash
 python predict.py
+```
+
+## 🚀 Installation( Use GitHub Download ZIP)
+
+### Download the Project
+
+1. Open the GitHub repository.
+ 
+2. Click **Code** → **Download ZIP**.
+
+3. Extract the ZIP file to your computer.
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run the Project
+
+```bash
+python predict.py
+```
 
 ## 📋 Dataset
 
